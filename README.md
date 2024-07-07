@@ -1,4 +1,5 @@
-# Grid World
+### Grid World
+Grid World is a Python project designed to help students learn and implement various search algorithms in a grid-based environment using PyGame. The goal is to find paths from a start node to a goal node while navigating through different terrains with varying costs. This project provides a hands-on way to understand search algorithms like DFS, BFS, Uniform Cost Search, and A* Search. 
 
 Setting Up
 ----
